@@ -3,26 +3,27 @@
   XBMC Remote
 
   Created by Joethefox on 23/10/14.
+  Edited by amnonkhen on 23/2/15
   Copyright (c) 2012 joethefox inc. All rights reserved.
  */
 
-"Listen to" = "Listen to";
-"Watch your" = "Watch your";
+"Listen to" = "להקשיב ל";
+"Watch your" = "לצפות ב";
 "Browse your" = "Browse your";
-"See what's" = "See what's";
-"Use as" = "Use as";
-"Watch" = "Watch";
+"See what's" = "לראות מה";
+"Use as" = "להשתמש כ";
+"Watch" = "לצפות";
 
-"Music" = "Music";
-"Movies" = "Movies";
-"TV Shows" = "TV Shows";
-"Pictures" = "Pictures";
-"Now Playing" = "Now playing";
-"Remote Control" = "Remote Control";
-"XBMC Server" = "XBMC Server";
-"New XBMC Server" = "New XBMC Server";
-"Modify XBMC Server" = "Modify XBMC Server";
-"Select an XBMC Server from the list" = "Select an XBMC Server from the list";
+"Music" = "מוזיקה";
+"Movies" = "סרטים";
+"TV Shows" = "תכניות טלויזיה";
+"Pictures" = "תמונות";
+"Now Playing" = "עכשיו מתנגן";
+"Remote Control" = "שלט רחוק";
+"XBMC Server" = "שרת XBMC";
+"New XBMC Server" = "שרת XBMC חדש";
+"Modify XBMC Server" = "לשנות שרת XBMC ;
+"Select an XBMC Server from the list" = "לבחור שרת XBMC מהרשימה";
 
 "Files" = "Files";
 "Video Addons" = "Video Addons";
